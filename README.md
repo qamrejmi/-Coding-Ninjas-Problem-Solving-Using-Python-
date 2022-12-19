@@ -1,2 +1,2 @@
-# -Coding-Ninjas-Problem-Solving-Using-Python-
+# Coding-Ninjas-Problem-Solving-Using-Python
 Introduction to Python
