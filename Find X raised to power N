@@ -1,0 +1,4 @@
+base=int(input())
+pwr=int(input())
+c=base**pwr
+print(c)
