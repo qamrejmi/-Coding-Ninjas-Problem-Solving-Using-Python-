@@ -1,0 +1,5 @@
+a=int(input())
+b=int(input())
+c=int(input())
+c_diff=b-a
+print(c_diff)
